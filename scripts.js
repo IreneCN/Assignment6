@@ -8,8 +8,8 @@
  3. Change the first $-get request i.e. put in the link to Google url
  4. I created a Google data table
  5. I've added rows and columns
- 6. I created an object, myChartOptions, to assign a title to the Line Chart I';; draw
- 7. 
+ 6. I created an object, myChartOptions, to assign a title to the Line Chart I'll draw
+ 7. With the get function, I'll draw 
  */
 
 
